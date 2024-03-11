@@ -7,7 +7,9 @@ To install this project on your machine, clone this repository and running on a 
 To first use this program, you need to log into with this information:
 _____________________________________
 LOGIN
+
 Username: admin
+
 Password: password
 _____________________________________
 
